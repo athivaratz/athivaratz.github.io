@@ -4,7 +4,7 @@
 📷 A photographer and developer passionate about creating innovative solutions.  
 ✨ Interest in AI-powered and smart IoT systems.
 ## 🔹 About Me
-- 📷 **Photographer**: Specializing in portrait and landscape photography.
+- 📷 **Photographer**: Portrait and landscape photography.
 - 💻 **Developer**: Experienced in building IoT systems & artificial intelligence.
 
 ## 👨‍🎓 Studying
